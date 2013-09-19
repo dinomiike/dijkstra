@@ -1,0 +1,15 @@
+{
+  "name": "dijkstra",
+  "version": "0.0.0",
+  "description": "An algorithm for finding the shortest path between two points in a graph",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "~1.7.2"
+  },
+  "devDependencies": {
+    "chai": "~1.7.2",
+    "mocha": "~1.13.0"
+  }
+}
